@@ -1,0 +1,8 @@
+tn\esprit\pmt\ressources\CompanyRessources.class
+tn\esprit\pmt\ressources\UserResource.class
+tn\esprit\pmt\ressources\ProjectRessources.class
+tn\esprit\pmt\ressources\DocumentRessource.class
+tn\esprit\pmt\wemtek\presentation\mbeans\TodoBean.class
+tn\esprit\pmt\ressources\JaxrsActivator.class
+tn\esprit\pmt\ressources\RoleResource.class
+tn\esprit\pmt\ressources\TaskRessource.class
